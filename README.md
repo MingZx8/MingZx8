@@ -2,6 +2,7 @@
 ### Salut 👋
 ### 嗨，朋友们 👋
 
+- 🔭 I’m currently working on GUI development
 <!--
 **MingZx8/MingZx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
