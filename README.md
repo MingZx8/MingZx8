@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Development
 - 🔭 I’m currently working on Object Detection
-- 🔭 I’m currently working on Data
+- 🔭 I’m currently working on Data Engineering
 
 <!--
 **MingZx8/MingZx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
