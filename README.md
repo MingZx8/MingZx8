@@ -3,7 +3,7 @@
 ### 嗨，朋友们 👋
 
 - 🔭 I’m currently working on Development
-- 🔭 I’m currently working on Object Detection
+- 🔭 I’m currently working on Computer Vision
 - 🔭 I’m currently working on Data Engineering
 
 <!--
