@@ -2,9 +2,9 @@
 ### Salut 👋
 ### 嗨，朋友们 👋
 
-- 🔭 I’m currently working on Development
 - 🔭 I’m currently working on Computer Vision
 - 🔭 I’m currently working on Data Engineering
+- 🔭 I’m currently working on Development
 
 <!--
 **MingZx8/MingZx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
